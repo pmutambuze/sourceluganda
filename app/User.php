@@ -1,0 +1,69 @@
+<?php
+
+namespace App;
+
+use Illuminate\Foundation\Auth\User as Authenticatable;
+use Illuminate\Notifications\Notifiable;
+
+class User extends Authenticatable
+{
+    use Notifiable;
+
+    /**
+     * The attributes that are mass assignable.
+     *
+     * @var array
+     */
+    protected $fillable = [
+        'name', 'email', 'password',
+    ];
+
+    /**
+     * The attributes that should be hidden for arrays.
+     *
+     * @var array
+     */
+    protected $hidden = [
+        'password', 'remember_token',
+    ];
+
+    /**
+     * The attributes that should be cast to native types.
+     *
+     * @var array
+     */
+    protected $casts = [
+        'email_verified_at' => 'datetime',
+        'is_admin' => 'boolean'
+    ];
+
+    /**
+     * User has many journals.
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\HasMany
+     */
+    public function journals()
+    {
+        return $this->hasMany(Journal::class, 'user_id');
+    }
+
+    /**
+     * User has creates members.
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\HasMany
+     */
+    public function members()
+    {
+        return $this->hasMany(Member::class, 'user_id');
+    }
+
+    /**
+     * User has creates members.
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\HasMany
+     */
+    public function libraries()
+    {
+        return $this->hasMany(Library::class, 'user_id');
+    }
+}
