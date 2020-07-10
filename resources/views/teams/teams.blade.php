@@ -11,7 +11,7 @@
         </div>
 
         <div class="row">
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+             <!--        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="member">
               <div class="member-img">
                 <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
@@ -21,7 +21,7 @@
                 <span>Chief Editor</span>
               </div>
             </div>
-          </div>
+          </div> -->
                     <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="member">
               <div class="member-img">
@@ -41,6 +41,18 @@
               <div class="member-info">
                 <h4>Mr. Katava Isaac </h4>
                 <span>Langauge Editor</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>Miss. Najjuma Veronica </h4>
+                <span>Chief Editor</span>
               </div>
             </div>
           </div>
