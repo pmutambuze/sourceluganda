@@ -5,7 +5,7 @@ use Illuminate\Support\Facades\Route;
 
 // Auth::loginUsingId(2);
 Route::get('/', 'HomeController@home')->name('home_page');
-Auth::loginUsingId(1);
+//Auth::loginUsingId(1);
 Auth::routes();
 // Auth::logout();
 //journals
