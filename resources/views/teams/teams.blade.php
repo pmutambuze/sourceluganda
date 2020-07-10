@@ -14,7 +14,7 @@
                     <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-5.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Najjuma Veronica </h4>
@@ -36,7 +36,7 @@
                     <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Katava Isaac </h4>
