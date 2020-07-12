@@ -15,8 +15,8 @@
                 <img src="assets/img/team/Team-Leader.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Owek. Dr. Prosperous Nankindu </h4>
-                <span>Team Leader</span>s
+                <h4>Dr. Prosperous Nankindu </h4>
+                <span>Team Leader</span>
                  <p data-aos="fade-up">
                  <a href="#">Read more...</a>
                 </p> 
@@ -26,22 +26,24 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-7.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Prof. Masagazi Masaazi </h4>
                 <span>Technical Advisor</span>
+                <a href="#">Read more...</a>
               </div>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Mr. Ttendo Mutale </h4>
                 <span>Asst. Coordinator</span>
+                <a href="#">Read more...</a>
               </div>
             </div>
           </div>
@@ -53,13 +55,14 @@
               <div class="member-info">
                 <h4>Omuk. Mukiibi Douglas </h4>
                 <span>Member</span>
+                <a href="#">Read more...</a>
               </div>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/unknown-1.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Mutambuze Paul </h4>
@@ -83,7 +86,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/Vero.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Najjuma Veronica </h4>
