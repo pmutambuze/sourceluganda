@@ -9,10 +9,10 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Source Luganda</h3>
             <p>
-              somw where <br>
-              Kabaka, Street<br>
+              Bulange Mengo <br>
+              Sir Albert Cook Rd<br>
               Uganda <br><br>
-              <strong>Phone:</strong> +256 753 222529<br>
+              <strong>Phone:</strong> +256 772 633 325<br>
               <strong>Email:</strong> info@sourceluganda.com<br>
             </p>
           </div>
